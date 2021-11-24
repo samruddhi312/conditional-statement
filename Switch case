@@ -11,19 +11,19 @@ int main()
     switch(ch)
     {
     case 1:
-          printf("pizza\n Rs.239");
+          printf("Food item-pizza\n price-Rs.239");
            break;
    case 2:
-           printf("Burger\nRs.129");
+           printf("food item-Burger\nprice-Rs.129");
            break;
    case 3:
-           printf("Pasta\nRs.179");
+           printf("food item-Pasta\nprice-Rs.179");
            break;
    case 4:
-           printf("French fries\nRs.99");
+           printf("food item-French fries\nprice-Rs.99");
            break;
    case 5:
-           printf("Sandwich\nRs.149");
+           printf("food item-Sandwich\nprice-Rs.149");
            break;
     default:
            printf("invalid choice");
